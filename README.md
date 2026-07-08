@@ -7,3 +7,7 @@
 Xsolla Offerwall SDK Android Maven Repository
 
 See [https://xsolla.com/xsolla-ads](https://xsolla.com/xsolla-ads) for more
+
+## ARCHIVED
+
+Offerwall SDK Maven repo has moved, this repository is now achived, contact Xsolla Support for assistance.
